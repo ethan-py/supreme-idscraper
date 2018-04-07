@@ -11,13 +11,16 @@ eg. http://www.supremenewyork.com/shop/171343
 
 
 Requirements:
-
 json (pip install json)
 requests (pip install requests)
 colorama (pip install colorama)
 Python 3.6
 
-made with <3
+Instructions:
+python scrape.py
+
+
+
 
 
 
