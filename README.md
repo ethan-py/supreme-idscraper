@@ -6,10 +6,18 @@ Gets all supreme IDs for new products
 [Website](http://ethan-cohen.com)
 
 ### Requirements
-
+```
 Python 3.6
-Requests
-JSON
+Requests (pip install requests)
+JSON (pip install json)
+```
+
+### How is this useful?
+```
+You can use ids to create product URLs. 
+Since this grabs every new product, it's useful for monitors and you won't have to add links manually
+eg. http://www.supremenewyork.com/shop/171354
+```
 
 ### How to run?
 ```
