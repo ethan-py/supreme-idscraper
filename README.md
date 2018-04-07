@@ -1,9 +1,9 @@
 # Supreme ID Scraper
 Gets all supreme IDs for new products
 
-[Twitter](https://twitter.com/ethancohen_)
-[Haste](http://hasterestocks.io)
-[Website](http://ethan-cohen.com)
+[Here's my Twitter](https://twitter.com/ethancohen_)
+[This is Haste, my LLC](http://hasterestocks.io)
+[And this is my website](http://ethan-cohen.com)
 
 ### Requirements
 ```
