@@ -1,17 +1,33 @@
-# supreme-idscraper
-Grabs all the newest product ids on supreme &amp; puts them into a txt file 
+# Supreme ID Scraper
+Gets all supreme IDs for new products
 
-Made this really simple, and took out all the complicated shit for you :) This will get all the supreme product ids and put them into a file. Will also print all the products and their ids. If you didn't know what a supreme ID is, you can visit http://www.supremenewyork.com/shop/{ID} to get to that product via the id.
-eg. http://www.supremenewyork.com/shop/171343
+[Twitter](https://twitter.com/ethancohen_)
+[Haste](http://hasterestocks.io)
+[Website](http://ethan-cohen.com)
 
+### Requirements
 
-Requirements:
-json,
-requests,
-colorama,
 Python 3.6
+Requests
+JSON
 
-How to run? python scrape.py
+### How to run?
+```
+python scrape.py
+```
+
+## License
+
+```
+The MIT License (MIT)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
+
 
 <3
 
